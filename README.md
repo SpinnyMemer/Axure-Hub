@@ -11,4 +11,4 @@ We welcome your suggestions for expanding the compatibility of Axure Hub V3.
 You can share your game recommendations on our [Discord Server!](https://discord.gg/5Rx8XfXdhc)
 
 ## Key-System
-Axure Hub V3 uses a Key-System to authenticate Users using a Key-System This Key-System helps support our regular development practices.
+Axure Hub V3 uses a Key-System to authenticate Users using a Key-System. This Key-System helps support our regular development practices.
