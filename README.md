@@ -12,3 +12,8 @@ You can share your game recommendations on our [Discord Server!](https://discord
 ## Key-System
 Axure Hub V3 uses a keysystem to authenticate our users. Our keysystem helps support regular development practices, research, and performance improvements.
 And we thank you for taking the time to complete our keysystem.
+
+## Axure Hub V3 Loader
+```lua
+game:HttpGet("https://raw.githubusercontent.com/AkkGamerBoy/Axure-Hub/main/loader.lua")
+```
